@@ -1,0 +1,247 @@
+﻿  AbstractGame.cpp
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(42,9): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(43,9): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(48,9): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(49,9): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,21): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,21): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,24): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,24): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,27): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,27): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,30): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,30): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,21): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,24): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  (compiling source file 'AbstractGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'AbstractGame.cpp')
+  
+  MyAudioSubsystem.cpp
+  MyGame.cpp
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(42,9): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(43,9): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(48,9): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(49,9): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,21): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,21): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,24): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,24): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,27): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,27): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,30): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,30): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,21): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,24): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  (compiling source file 'MyGame.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'MyGame.cpp')
+  
+  XCube2d.cpp
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(42,9): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(43,9): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(48,9): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(49,9): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,21): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,21): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,24): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,24): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,27): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,27): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,30): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,30): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,21): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,24): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  (compiling source file 'XCube2d.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'XCube2d.cpp')
+  
+  main.cpp
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(42,9): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(43,9): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(48,9): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(49,9): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,21): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,21): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,24): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,24): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,27): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,27): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,30): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(96,30): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,21): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,24): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\GameMath.h(114,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+  MyGameEngine.vcxproj -> C:\UNIVERSITY\year 2\CI517 - Game Engine Fundamentals\MyGameEngine\x64\Debug\MyGameEngine.exe
